@@ -1,6 +1,6 @@
-**Database Name: schoolfeesys**
+**Database Name: college fee managment**
 
-**Developed by Lewa**
+**Developed by ganesh varma**
 
 **Recommended PHP Version 5.6.3 and 7.4.12**
 
